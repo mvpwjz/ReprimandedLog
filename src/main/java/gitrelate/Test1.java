@@ -5,5 +5,6 @@ public class Test1 {
         System.out.println("wjz,nb");
         System.out.println("wenjunzhe 第1次提交");
         System.out.println("mvpwjz 第一次提交");
+        System.out.println("wjz,mvp");
     }
 }
